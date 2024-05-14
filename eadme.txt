@@ -1,1 +1,0 @@
-This is simply a readme file where user can read about the installation as well as the usuage of this software.
